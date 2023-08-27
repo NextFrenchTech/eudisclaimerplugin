@@ -1,0 +1,28 @@
+#monModal {
+    height: 200px;
+    width: 400px;
+}
+
+a.btn-red {
+    color:#fff;
+    background: crimson;
+    padding: .5rem 1rem;
+    display: inline-block;
+    border-radius: 4px;
+    transition-duration: .25s;
+    border: none;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+a.btn-green {
+    color:#fff;
+    background: greenyellow;
+    padding: .5rem 1rem;
+    display: inline-block;
+    border-radius: 4px;
+    transition-duration: .25s;
+    border: none;
+    font-size: 22px;
+    font-weight: bold;
+}
